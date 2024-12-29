@@ -21,9 +21,9 @@ Bing Chat（New Bing）升级后正式基于GPT-4，新版 Bing Chat 中增加�
 
 **下面是推荐使用的机场：**
 
-如果只是简单试用下推荐使用免费机场：[v2free](https://w1.v2free.top/auth/register?code=UO4o)
+如果只是简单试用下推荐使用免费机场：[v2free]( https://w1.v2free.cc/auth/register?code=GtsJ)
 
-打算深度使用请购买体验更好的机场：[2023年最新机场推荐](https://github.com/winston779/clash/blob/main/%E6%9C%80%E6%96%B0clash%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90.md)
+打算深度使用请购买体验更好的机场：[2023年最新机场推荐](https://github.com/mfbpn/clash/blob/main/%E6%9C%80%E6%96%B0clash%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90.md)
 
 ## 邮箱
 
